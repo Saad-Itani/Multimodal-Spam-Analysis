@@ -6,6 +6,10 @@ This repository contains a comprehensive analysis of various machine-learning mo
 
 The project aims to explore and compare the effectiveness of different machine-learning algorithms and models in identifying spam emails. By applying multiple models to the same data, we seek to compare and analyze the predictive performance and reliability of the different ML models in detecting spam mail.
 
+## The Dataset.
+
+https://www.kaggle.com/datasets/subhajournal/phishingemails
+
 ## Key Features.
 
 - **Multiple Machine Learning Models:** Utilizes various algorithms, such as ANN, SVM, KNN and logistic regression, to detect spam emails.
