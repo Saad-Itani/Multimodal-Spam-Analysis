@@ -19,7 +19,7 @@ The project aims to explore and compare the effectiveness of different machine-l
 - **Normalization:** Implementing data normalization techniques to ensure uniformity in the data, enhancing model performance.
 - **Preprocessing:** Cleaning and preparing the dataset through steps such as removing special characters, stemming, and lemmatization to improve data quality and relevance.
 
-## Model Optimization and Parameter Tuning
+## Model Optimization and Parameter Tuning.
 
 A key aspect of our approach is the optimization of model parameters to achieve the best possible performance:
 
@@ -32,3 +32,8 @@ A key aspect of our approach is the optimization of model parameters to achieve 
 - Scikit-Learn
 - Pandas
 - Matplotlib
+- Keras
+
+## License.
+
+This project is open-source and available under the MIT License. You are welcome to fork and modify this repository.
